@@ -1,0 +1,8 @@
+822828,127.0.0.1,GET,http://localhost:8000/,1481395203,,200
+6b58d6,127.0.0.1,GET,http://localhost:8000/entrar,1481395236,,200
+7a33bd,127.0.0.1,POST,http://localhost:8000/entrar,1481395244,,307
+9f1d85,127.0.0.1,POST,http://localhost:8000/index,1481395244,,200
+809d38,127.0.0.1,GET,http://localhost:8000/entrar,1481395292,,200
+9979b9,127.0.0.1,POST,http://localhost:8000/entrar,1481395298,,307
+e7f230,127.0.0.1,POST,http://localhost:8000/index,1481395298,,200
+6c3e48,127.0.0.1,POST,http://localhost:8000/index,1481395324,,200
